@@ -1,13 +1,3 @@
-/*
- * agc_alc_wb.h
- *
- *  Created on: 2017. 10. 17.
- *      Author: Serg
- */
-
-//#ifndef SRC_AGC_ALC_WB_H_
-//#define SRC_AGC_ALC_WB_H_
-//#endif /* SRC_AGC_ALC_WB_H_ */
 #include "xintc.h"
 
 #ifndef AXI_UART_H_
