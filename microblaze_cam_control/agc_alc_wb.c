@@ -1,19 +1,9 @@
-/*
- * agc_alc_wb.c
- *
- *  Created on: 2017. 10. 17.
- *      Author: Ruslan Kozlov
- */
 #include "xparameters.h"
 #include "xgpio.h"
-//#include "xuartlite.h"
 #include "xuartlite_l.h"
 #include "xil_exception.h"
 #include "agc_alc_wb.h"
 #include "xintc_l.h"
-
-
-
 
 void init_drivers (void) {
 	/* Initialize the GPIO drivers */
